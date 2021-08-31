@@ -1,6 +1,6 @@
 <h1 align="center">to.do</h1><br>
 
-![Screenshot 2021-08-18 at 09-21-02 to do](https://user-images.githubusercontent.com/54643425/129897207-e5a35f9e-a3ea-482b-99bc-3d5c0331ec13.png)
+![Screenshot 2021-08-18 at 09-21-02 to do](https://raw.githubusercontent.com/Gabrielcsg19/to.do/main/assets/cover-img.png)
 
 ---
 Aplicação CRUD para criação de tarefas desenvolvido com __React.js__.
